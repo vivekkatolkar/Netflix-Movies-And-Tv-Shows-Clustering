@@ -1,5 +1,10 @@
 # Netflix-Movies-And-Tv-Shows-Clustering
+![netflix-660x330](https://user-images.githubusercontent.com/105944539/192093068-768a84c8-86ec-4c21-baab-d222284984cc.png)
+
 This project is a part of "Unsupervised Machine Learning” curriculum as capstone projects at AlmaBetter School 
+
+
+
 
 Netflix is an American subscriptionstreaming service and production company. It is the one of the largest Platform which provides the collection of TV shows and movies, streaming via online means. The monthly subscription by user makes Netflix a profitable business and the flexibility in subscription users can cancel it anytime. So to engage customers to this platform Netflix must keep their content interesting that can hook users on the platform. That’s why the recommendation system which provides valuable suggestions to users is essential.
 
