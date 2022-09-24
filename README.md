@@ -64,6 +64,7 @@ Then it’s easier to get the user to make better decisions from a wide variety 
 ●	Datetime: For reading the date.
 
 # Conclusion-
+ It can be made based on information about movies and TV shows. In addition, similar models can be developed to provide valuable recommendations to consumers in other domains. It will solve for improved movie and TV-Show selection times with a considerable growth in satisfaction of the content being consumed leading to more user engagement and greater trust in Netflix recommendations.
 
 1.	Most films were released in the years 2018, 2019, and 2020.
 2.	TV shows account for 2.8 percent of the total, while movies account for 97.2 percent.
